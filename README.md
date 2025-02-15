@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit Kumar
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently working as a Data Scientist I in Data & AI (PHDSI) Team .
+- 🌱 I’m currently working as a Senior Manager Data Science at EY GDS.
 - 💞️ I’m looking to collaborate on innovative AI Use-cases.
 - 📫 You can reach me at mohit.kumar_1@philips.com
 
