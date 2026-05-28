@@ -16,3 +16,4 @@ setup_github.sh
 cleanup_subfolder.sh
 scripts_cleanup.sh
 scripts/workspace_mgr.sh
+scripts/bootstrap_submodules.sh
