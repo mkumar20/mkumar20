@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a passionate AI technologist and builder, foc
 
 - 📧 **Personal Email:** [mk.nitttr@gmail.com](mailto:mk.nitttr@gmail.com)
 - 🏢 **Work Email:** [mohit.kumar7@gds.ey.com](mailto:mohit.kumar7@gds.ey.com)
-- 💼 **LinkedIn:** [Mohit Kumar](https://www.linkedin.com) *(Add your customized URL here)*
+- 💼 **LinkedIn:** [Mohit Kumar](https://www.linkedin.com)
 
 ---
 
