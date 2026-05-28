@@ -1,6 +1,20 @@
+# System files
 .DS_Store
+
+# Dependencies
 node_modules/
-.gh_config/
+
+# Sensitive local configurations (contains OAuth credentials)
 gh_config/
+
+# Local configuration and dev scripts
 setup_github.sh
 *.log
+
+
+# Root-level Ignored Repositories
+smart-expense-tracking-fraud-detection-app/
+smart-spend-shield/
+ppt-Agent/
+scripts/
+cleanup_subfolder.sh
