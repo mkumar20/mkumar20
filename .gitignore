@@ -13,7 +13,6 @@ setup_github.sh
 
 
 # Root-level Ignored Repositories & Workspace Cleanups
-explorations/
 cleanup_subfolder.sh
 scripts_cleanup.sh
 scripts/workspace_mgr.sh
