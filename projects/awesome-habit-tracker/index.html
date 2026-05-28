@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vanilla Premium Starter</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="glass-bg"></div>
+
+  <main class="app-container">
+    <header class="header">
+      <div class="logo">🚀 ProjectName</div>
+      <nav class="nav">
+        <button class="btn btn-secondary" id="theme-toggle">🌙 Theme</button>
+      </nav>
+    </header>
+
+    <section class="hero-section">
+      <div class="badge">Boilerplate Activated</div>
+      <h1>Welcome to your new <span class="gradient-text">Masterpiece</span></h1>
+      <p class="hero-subtext">This is a premium, zero-dependency, ultra-performance starter template. Start editing files to see changes instantly!</p>
+      
+      <div class="cta-group">
+        <button class="btn btn-primary" id="btn-action">Interactive Action</button>
+        <a href="https://github.com" target="_blank" class="btn btn-ghost">Learn More &rarr;</a>
+      </div>
+    </section>
+
+    <section class="interactive-demo">
+      <div class="glass-card">
+        <h3>⚡ Real-Time Counter</h3>
+        <p>A simple state management demonstrator running in pure ES Modules.</p>
+        <div class="counter-display">
+          <span id="counter-value">0</span>
+        </div>
+        <div class="counter-controls">
+          <button class="btn btn-sm btn-danger" id="counter-dec">- Decrement</button>
+          <button class="btn btn-sm btn-success" id="counter-inc">+ Increment</button>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>&copy; 2026 Developer Sandbox. Handcrafted with Antigravity.</p>
+    </footer>
+  </main>
+
+  <!-- Script Module -->
+  <script type="module" src="app.js"></script>
+</body>
+</html>

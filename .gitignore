@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+.gh_config/
+gh_config/
+setup_github.sh
+*.log
