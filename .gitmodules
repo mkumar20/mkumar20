@@ -1,0 +1,3 @@
+[submodule "explorations/multi-agent-factory"]
+	path = explorations/multi-agent-factory
+	url = https://github.com/mkumar20/multi-agent-factory.git
