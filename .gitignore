@@ -12,9 +12,7 @@ setup_github.sh
 *.log
 
 
-# Root-level Ignored Repositories
-smart-expense-tracking-fraud-detection-app/
-smart-spend-shield/
-ppt-Agent/
-scripts/
+# Root-level Ignored Repositories & Workspace Cleanups
+explorations/
 cleanup_subfolder.sh
+scripts_cleanup.sh
