@@ -1,50 +1,29 @@
-# 👋 Hi, I’m Mohit Kumar
+# 🚀 Mohit Kumar
 
-### 👀 Passionate about all things Artificial Intelligence, Agentic AI, Gen AI, Deep Learning, and Machine Learning
-- 🌱 **Current Role:** Senior Manager - Gen AI @ EY GDS
-- 💞️ **Collaboration:** Open to innovative Gen AI use cases & agentic architectures
-- 📫 **Contact:** mk.nitttr@gmail.com | mohit.kumar7@gds.ey.com
+### Senior Manager - Gen AI @ EY GDS
 
----
-
-# 🧪 The Developer's Exploration Sandbox (Mono-Repo)
-
-Welcome to your central Mono-Repo workspace! This serves as a premium, highly structured sandbox environment designed for captured project ideas, gen-ai routing tests, rapid prototyping, and active explorations.
-
-## 📂 Reorganized Architecture
-
-All files, configurations, and utilities have been restructured for complete simplicity and organization:
-
-```text
-├── explorations/      # 🧪 All your active/completed exploration projects live here
-├── scripts/           # ⚡ Unified script command center (Version-Controlled & Tracked)
-│   ├── setup_github.sh    # - Initial GitHub connection and remote syncing script
-│   └── workspace_mgr.sh   # - Premium, interactive CLI workspace manager
-├── gh_config/         # 🔑 Local backup of GitHub CLI configurations (Ignored)
-├── .gitignore         # 📦 Configured to track scripts/ and README, while keeping workspace clean
-└── README.md          # 📖 Workspace Handbook & Profile Card (this file)
-```
+Welcome to my GitHub profile! I am a passionate AI technologist and builder, focusing on creating intelligent systems, agentic workflows, and cutting-edge generative AI architectures.
 
 ---
 
-## 🎛️ The Workspace Manager
+## 🔬 Core Focus Areas
 
-The workspace includes a built-in interactive **Workspace Manager** to help you list, bootstrap, and maintain explorations instantly.
-
-To launch your command center, run this command in your terminal:
-```bash
-bash scripts/workspace_mgr.sh
-```
-
-### Features:
-1. **📋 List Explorations:** Instantly scan your active exploration subdirectories.
-2. **🔬 Create New Project:** Bootstrap a fresh project folder inside `explorations/` complete with standard documentation scaffolding.
-3. **🔍 Status Diagnostic:** Fetch active GitHub CLI credentials and branch tracking details.
-4. **🚀 Sync Workspace:** Easily stage, commit, and push your mono-repo parent settings back to GitHub.
+- 🤖 **Agentic AI & Architectures:** Designing autonomous, self-healing, multi-agent frameworks.
+- ⚡ **Generative AI:** Building advanced retrieval systems (RAG), orchestrations, and LLM fine-tuning pipelines.
+- 🧠 **Deep Learning & ML:** Implementing predictive modeling, neural networks, and computer vision systems.
+- 🌱 **Collaboration:** Enthusiastic about partnering on novel AI research, open-source projects, and high-impact enterprise use cases.
 
 ---
 
-*“The best way to predict the future is to invent it.”* Let's build something remarkable! 🛠️
+## 📫 Let's Connect!
+
+- 📧 **Personal Email:** [mk.nitttr@gmail.com](mailto:mk.nitttr@gmail.com)
+- 🏢 **Work Email:** [mohit.kumar7@gds.ey.com](mailto:mohit.kumar7@gds.ey.com)
+- 💼 **LinkedIn:** [Mohit Kumar](https://www.linkedin.com) *(Add your customized URL here)*
+
+---
+
+*“The best way to predict the future is to invent it.”* 💻
 
 <!---
 mkumar20/mkumar20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
