@@ -1,0 +1,6 @@
+[submodule "explorations/unified-ai-bench"]
+	path = explorations/unified-ai-bench
+	url = https://github.com/mkumar20/unified-ai-bench.git
+[submodule "explorations/multi-agent-factory"]
+	path = explorations/multi-agent-factory
+	url = https://github.com/mkumar20/multi-agent-factory.git
