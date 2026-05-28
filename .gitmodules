@@ -1,0 +1,9 @@
+[submodule "projects/mkumar20"]
+	path = projects/mkumar20
+	url = https://github.com/mkumar20/mkumar20.git
+[submodule "projects/smart-expense-tracking-fraud-detection-app"]
+	path = projects/smart-expense-tracking-fraud-detection-app
+	url = https://github.com/mkumar20/smart-expense-tracking-fraud-detection-app.git
+[submodule "projects/smart-spend-shield"]
+	path = projects/smart-spend-shield
+	url = https://github.com/mkumar20/smart-spend-shield.git
